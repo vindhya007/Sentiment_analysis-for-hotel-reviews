@@ -1,4 +1,4 @@
-# Sentiment analysis for hotel-reviews
+# Sentiment analysis for American hotel-reviews
 
 The social media plays an important role in today’s world and provides an efficient way for business to interact and communicate with their customers. For example, google application plays a crucial role in identify which are leading service providers in any business based on their reviews. Each application in social media has a unique way of providing accurate information about your business to potential customers. Star ratings are one of the review practises, that everyone easily understands.
 Hotel reviews plays crucial role in providing feedback about your business from customers. Customer reviews submitted at Internet portals are huge and unstructured, giving analytical challenges for existing analysis tools that were designed for well-structured, quantitative data. 
